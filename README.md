@@ -20,12 +20,12 @@ But it works! Particularly with a batch file along the lines of:
 Here's a helpful tutorial video (that someone at the collegeboard had to watch lmao):
 https://youtu.be/y91R5sOlCFs
 
-# Why are there two versions?
+# Why were there two versions?
 One is very pretty and neat code (essentially eyecandy for my grader from AP™ CSP) 
-and the other is a mistake in the making (i'm sorry)
+and the other was a mistake in the making (i'm sorry)
 
 # Credits:
 
->Me (Koda) - layout and some function works (some of the programming)
->Eclipse - awesome parsing function and beutiful classes (my favorite is onion.h)
+>Me (Koda) - layout, programming, and some function works (the programming)
+>Eclipse - awesome parsing function and beautiful classes (my favorite is onion.h)
 >Raveler - ffmpeg c++ wrapper and compile on demand library (We tweaked it a bunch, obviously, but great staring point! Thanks!)
